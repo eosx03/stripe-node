@@ -1,3 +1,6 @@
+# Annotated Stripe Node.js library 
+I have put some comments and annotations that will be helpful.
+
 # Stripe Node.js Library
 
 [![Version](https://img.shields.io/npm/v/stripe.svg)](https://www.npmjs.org/package/stripe)
